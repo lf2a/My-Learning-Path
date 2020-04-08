@@ -12,6 +12,7 @@
       - [Linux](#linux)
     - [Compiler Design](#compiler-design)
     - [Programming](#programming)
+      - [Programming Paradigms](#programming-paradigms)
       - [UML](#uml)
       - [Python](#python)
       - [Go](#go)
@@ -109,6 +110,13 @@
 - [Design Patterns - Wiki](https://en.wikipedia.org/wiki/Design_Patterns)
 - [What Is Dependency Injection?](https://medium.com/better-programming/what-is-dependency-injection-b2671b1ea90a)
 - [The SOLID Principles in Real Life](https://dzone.com/articles/the-solid-principles-in-real-life)
+- [Boolean Logic](http://www1.idc.ac.il/cs101/lectures/Boolean%20logic.pdf)
+- [Boolean logic](https://www.csie.ntu.edu.tw/~cyy/courses/introCS/13fall/lectures/handouts/lec03_logic.pdf)
+
+#### Programming Paradigms
+- [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
+- [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
+- [Programming Paradigms: A must know for all Programmers](https://hackr.io/blog/programming-paradigms)
 
 #### UML
 - [The Unified Modeling Language](https://www.uml-diagrams.org/)
@@ -175,6 +183,7 @@
 - [Java Best Practices and Tips by Toptal Developers](https://www.toptal.com/java/tips-and-practices)
 - [Java Best Practices Guide](https://howtodoinjava.com/java-best-practices/)
 - [30 Java Programming Tips and Best Practices for Beginners](https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html)
+- [Java equals() and hashCode() Contracts](https://www.baeldung.com/java-equals-hashcode-contracts)
 
 ### Version Control
 - [Learn Git](https://try.github.io/)
@@ -198,6 +207,7 @@
 - [N+1 Queries and How to Avoid Them!](https://medium.com/@bretdoucette/n-1-queries-and-how-to-avoid-them-a12f02345be5)
 - [DBMS & SQL Tutorial for Beginners](https://www.studytonight.com/dbms/)
 - [Readings in Databases](https://github.com/rxin/db-readings)
+- [Redis - Documentation](https://redis.io/documentation)
 
 ### Message Brokers
 - [An introduction to Message Brokers](https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd)
