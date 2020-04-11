@@ -207,7 +207,11 @@
 - [N+1 Queries and How to Avoid Them!](https://medium.com/@bretdoucette/n-1-queries-and-how-to-avoid-them-a12f02345be5)
 - [DBMS & SQL Tutorial for Beginners](https://www.studytonight.com/dbms/)
 - [Readings in Databases](https://github.com/rxin/db-readings)
-- [Redis - Documentation](https://redis.io/documentation)
+- [What is a Key-Value Database?](https://www.dataversity.net/key-value-database/)
+- [Understanding Key-Value Databases](https://www.dataversity.net/understanding-key-value-databases/)
+- [Graph Databases. What’s the Big Deal?](https://towardsdatascience.com/graph-databases-whats-the-big-deal-ec310b1bc0ed)
+- [What is a Document Database?](https://www.alachisoft.com/nosdb/document-databases.html)
+- [What is a Wide Column Database?](https://www.dataversity.net/wide-column-database/)
 
 ### Message Brokers
 - [An introduction to Message Brokers](https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd)
