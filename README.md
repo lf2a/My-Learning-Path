@@ -21,7 +21,7 @@
 - [Message Brokers](#message-brokers)
 - [Container](#container)
 
-> :page_with_curl: Overview > ```overview.md```
+> :page_with_curl: Overview Internet > ```overview_internet.md```
 
 ### Internet
 - :page_with_curl: [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
@@ -45,14 +45,12 @@
 - :page_with_curl: [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - :page_with_curl: [Session (computer science)](https://en.wikipedia.org/wiki/Session_(computer_science))
 
-#### [Application programming interface (API)](https://en.wikipedia.org/wiki/Application_programming_interface)
-- [Restful API](https://restfulapi.net/)
-- [RESTful Tutorial](https://www.restapitutorial.com/)
-- [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
-- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- [How to design a REST API ](https://blog.octo.com/en/design-a-rest-api/)
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
-- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+#### :page_with_curl: [Application programming interface (API)](https://en.wikipedia.org/wiki/Application_programming_interface)
+- :page_with_curl: [Restful API](https://restfulapi.net/)
+- \[op.] [RESTful Tutorial](https://www.restapitutorial.com/)
+- \[op.] [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
+- \[op.] [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- \[op.] [How to design a REST API ](https://blog.octo.com/en/design-a-rest-api/)
 
 #### Web Security
 - [Confidentiality, Integrity, and Availability](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/Confidentiality,_Integrity,_and_Availability)
