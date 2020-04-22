@@ -22,6 +22,8 @@
 - [Container](#container)
 
 > :page_with_curl: Overview Internet > ```overview_internet.md```
+> :page_with_curl: Overview API > ```overview_api.md```
+> :page_with_curl: Overview Web Security > ```overview_web_sec.md```
 
 ### Internet
 - :page_with_curl: [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
@@ -53,20 +55,19 @@
 - \[op.] [How to design a REST API ](https://blog.octo.com/en/design-a-rest-api/)
 
 #### Web Security
-- [Confidentiality, Integrity, and Availability](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/Confidentiality,_Integrity,_and_Availability)
-- [Cross-site scripting](https://www.google.com/intl/sw/about/appsecurity/learning/xss/)
-- [What is the SQL Injection Vulnerability & How to Prevent it?](https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/)
-- [What is ‘CORS’? What is it used for?](https://medium.com/@electra_chong/what-is-cors-what-is-it-used-for-308cafa4df1a)
-- [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe)
-- [JSON Web Token (JWT) explained](https://flaviocopes.com/jwt/)
-- [What is OAuth? Definition and How it Works](https://www.varonis.com/blog/what-is-oauth/)
-- [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
-- [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-- [Transport Layer Security](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
+- :page_with_curl: [Confidentiality, Integrity, and Availability](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/Confidentiality,_Integrity,_and_Availability)
+- :page_with_curl: [Cross-site scripting](https://www.google.com/intl/sw/about/appsecurity/learning/xss/)
+- :page_with_curl: [What is the SQL Injection Vulnerability & How to Prevent it?](https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/)
+- :page_with_curl: [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- :page_with_curl: [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe)
+- :page_with_curl: [JSON Web Token (JWT) explained](https://flaviocopes.com/jwt/)
+- :page_with_curl: [What is OAuth? Definition and How it Works](https://www.varonis.com/blog/what-is-oauth/)
+- :page_with_curl: [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
+- :page_with_curl: [Transport Layer Security](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
 - [TCP/IP Security](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/TCP_IP_Security)
-- [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f)
-- [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/)
-- [Server-side request forgery (SSRF)](https://portswigger.net/web-security/ssrf)
+- :page_with_curl: [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f)
+- :page_with_curl: [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/)
+- :page_with_curl: [Server-side request forgery (SSRF)](https://portswigger.net/web-security/ssrf)
 - [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
 
 ### Frontend
