@@ -21,8 +21,14 @@
 - [Message Brokers](#message-brokers)
 - [Container](#container)
 
+> :recycle: Other Documentation
+
+> :clock1130: Learn Later
+
 > :page_with_curl: Overview Internet > ```overview_internet.md```
+
 > :page_with_curl: Overview API > ```overview_api.md```
+
 > :page_with_curl: Overview Web Security > ```overview_web_sec.md```
 
 ### Internet
@@ -49,10 +55,10 @@
 
 #### :page_with_curl: [Application programming interface (API)](https://en.wikipedia.org/wiki/Application_programming_interface)
 - :page_with_curl: [Restful API](https://restfulapi.net/)
-- \[op.] [RESTful Tutorial](https://www.restapitutorial.com/)
-- \[op.] [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
-- \[op.] [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- \[op.] [How to design a REST API ](https://blog.octo.com/en/design-a-rest-api/)
+- :recycle: [RESTful Tutorial](https://www.restapitutorial.com/)
+- :recycle: [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
+- :recycle: [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- :recycle: [How to design a REST API ](https://blog.octo.com/en/design-a-rest-api/)
 
 #### Web Security
 - :page_with_curl: [Confidentiality, Integrity, and Availability](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/Confidentiality,_Integrity,_and_Availability)
@@ -64,11 +70,11 @@
 - :page_with_curl: [What is OAuth? Definition and How it Works](https://www.varonis.com/blog/what-is-oauth/)
 - :page_with_curl: [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
 - :page_with_curl: [Transport Layer Security](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
-- [TCP/IP Security](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/TCP_IP_Security)
+- :page_with_curl: [TCP/IP Security](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/TCP_IP_Security)
 - :page_with_curl: [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f)
 - :page_with_curl: [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/)
 - :page_with_curl: [Server-side request forgery (SSRF)](https://portswigger.net/web-security/ssrf)
-- [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
+- :clock1130: [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
 
 ### Frontend
 - [HTML](https://www.w3schools.com/html/)
@@ -125,6 +131,9 @@
 - [Bitwise Tricks](https://gist.github.com/dideler/2365607)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+- [TDD]()
+- [BDD]()
+- [Unit Test]()
 
 #### UML
 - [The Unified Modeling Language](https://www.uml-diagrams.org/)
@@ -155,6 +164,7 @@
 - [AIOHTTP - docs](https://docs.aiohttp.org/en/stable/)
 - [asyncio - Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
 
 #### Go
 - [A Tour of Go](https://tour.golang.org/welcome/1)
@@ -192,16 +202,18 @@
 - [Java Best Practices Guide](https://howtodoinjava.com/java-best-practices/)
 - [30 Java Programming Tips and Best Practices for Beginners](https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html)
 - [Java equals() and hashCode() Contracts](https://www.baeldung.com/java-equals-hashcode-contracts)
+- [Maven]()
 
 ### Version Control
 - [Learn Git](https://try.github.io/)
 - [Git book](https://git-scm.com/book/en/v2)
 - [Git Style Guide](https://github.com/agis/git-style-guide)
 
-### Frameworks
+### Frameworks / Tools
 - [Django](https://www.djangoproject.com/)
 - [Django REST](https://www.djangoproject.com/)
 - [React](https://reactjs.org/)
+- [Jenkins - Tutorials](https://www.jenkins.io/doc/tutorials/)
 
 ### DataBase
 - [Database Management System (DBMS)](https://www.geeksforgeeks.org/dbms/)
@@ -221,6 +233,7 @@
 - [Graph Databases. What’s the Big Deal?](https://towardsdatascience.com/graph-databases-whats-the-big-deal-ec310b1bc0ed)
 - [What is a Document Database?](https://www.alachisoft.com/nosdb/document-databases.html)
 - [What is a Wide Column Database?](https://www.dataversity.net/wide-column-database/)
+- [An Overview on Elasticsearch and its usage](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
 ### Message Brokers
 - [An introduction to Message Brokers](https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd)
@@ -229,3 +242,4 @@
 - [LearnDocker.online](https://learndocker.online/courses)
 - [About Play with Docker Classroom](https://training.play-with-docker.com/)
 - [Docker Documentation](https://docs.docker.com/)
+- [Kubernetes - Tutorials](https://kubernetes.io/docs/tutorials/)
