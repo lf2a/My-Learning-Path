@@ -32,7 +32,6 @@
 > :page_with_curl: Overview Web Security > ```overview_web_sec.md```
 
 ### Internet
-- :page_with_curl: [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - :page_with_curl: [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - :page_with_curl: [HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - :page_with_curl: [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
@@ -59,6 +58,7 @@
 - :recycle: [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
 - :recycle: [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - :recycle: [How to design a REST API ](https://blog.octo.com/en/design-a-rest-api/)
+- :clock1130: [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 
 #### Web Security
 - :page_with_curl: [Confidentiality, Integrity, and Availability](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics/Confidentiality,_Integrity,_and_Availability)
