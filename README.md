@@ -84,7 +84,7 @@
   - [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
 ### Computer Organization And Architecture
-- [FUNDAMENTALS OF COMPUTER ORGANIZATION AND ARCHITECTURE](http://engineering.futureuniversity.com/BOOKS%20FOR%20IT/%5BMostafa_Abd-El-Barr__Hesham_El-Rewini%5D_Fundamenta(BookZZ.org).pdf)
+- [Computer Organization and Architecture](https://www.javatpoint.com/computer-organization-and-architecture-tutorial)
 
 ### Operating System
 - [Tutorial for Beginners](https://www.studytonight.com/operating-system/)
@@ -120,24 +120,40 @@
 - [The SOLID Principles in Real Life](https://dzone.com/articles/the-solid-principles-in-real-life)
 - [Boolean Logic](http://www1.idc.ac.il/cs101/lectures/Boolean%20logic.pdf)
 - [Boolean logic](https://www.csie.ntu.edu.tw/~cyy/courses/introCS/13fall/lectures/handouts/lec03_logic.pdf)
-
-#### Programming Paradigms
-- [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
-- [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
-- [Programming Paradigms: A must know for all Programmers](https://hackr.io/blog/programming-paradigms)
+- [The KISS Principle](https://people.apache.org/~fhanik/kiss.html)
+- [You Ain't Gonna Need It (YAGNI)](https://deviq.com/yagni/)
+- [You Arent Gonna Need It](http://c2.com/xp/YouArentGonnaNeedIt.html)
+- [KISS and YAGNI](https://blog.codinghorror.com/kiss-and-yagni/)
+- [Don't repeat yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
+- [Dependency Injection](https://joebubna.github.io/Cora/documentation/v2/dependency-injection/overview/)
+- [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
+- [DDD for beginners](https://speakerdeck.com/akrabat/ddd-for-beginners)
+- [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/28628086#28628086)
+- [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
 - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/advanced-linux-programming.pdf)
 - [SourceMaking](https://sourcemaking.com/)
 - [Garbage Collection](https://plumbr.io/handbook/what-is-garbage-collection)
 - [Bitwise Tricks](https://gist.github.com/dideler/2365607)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
-- [TDD]()
-- [BDD]()
-- [Unit Test]()
+- [Test-driven development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
+- [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
+- [Behavior-driven development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [Behavior-Driven Development (BDD) Testing a REST API With Behave](https://www.guru99.com/bdd-testing-rest-api-behave.html)
+- [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+- [Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
+
+#### Programming Paradigms
+- [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
+- [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
+- [Programming Paradigms: A must know for all Programmers](https://hackr.io/blog/programming-paradigms)
 
 #### UML
 - [The Unified Modeling Language](https://www.uml-diagrams.org/)
-- [UML Class and Object Diagrams](https://www.uml-diagrams.org/class-diagrams-overview.html)
+- [UML Class and Object Diagrams](https://www.Mavenuml-diagrams.org/class-diagrams-overview.html)
 - [UML Use Case Diagrams](https://www.uml-diagrams.org/use-case-diagrams.html)
 - [Activity Diagrams](https://www.uml-diagrams.org/activity-diagrams.html)
 - [UML Sequence Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
@@ -202,7 +218,7 @@
 - [Java Best Practices Guide](https://howtodoinjava.com/java-best-practices/)
 - [30 Java Programming Tips and Best Practices for Beginners](https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html)
 - [Java equals() and hashCode() Contracts](https://www.baeldung.com/java-equals-hashcode-contracts)
-- [Maven]()
+- [Apache Maven](https://en.wikipedia.org/wiki/Apache_Maven)
 
 ### Version Control
 - [Learn Git](https://try.github.io/)
@@ -226,6 +242,7 @@
 - [Database Recovery Techniques in DBMS](https://www.geeksforgeeks.org/database-recovery-techniques-in-dbms/)
 - [What is Cached Data? What does Clear Cache Mean and What Does it Do?](https://www.freecodecamp.org/news/what-is-cached-data/)
 - [N+1 Queries and How to Avoid Them!](https://medium.com/@bretdoucette/n-1-queries-and-how-to-avoid-them-a12f02345be5)
+- [Codd's 12 rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
 - [DBMS & SQL Tutorial for Beginners](https://www.studytonight.com/dbms/)
 - [Readings in Databases](https://github.com/rxin/db-readings)
 - [What is a Key-Value Database?](https://www.dataversity.net/key-value-database/)
