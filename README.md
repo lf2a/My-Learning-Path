@@ -7,7 +7,6 @@
 - [Frontend](#frontend)
 - [Operating System](#operating-system)
   - [Linux](#linux)
-- [Compiler Design](#compiler-design)
 - [Programming](#programming)
   - [Programming Paradigms](#programming-paradigms)
   - [UML](#uml)
@@ -96,9 +95,6 @@
 - :clock1130: [Linux Security](http://linux-training.be/linuxsec.pdf)
 - :clock1130: [Linux Storage](http://linux-training.be/linuxsto.pdf)
 - :clock1130: [Linux Networking](http://linux-training.be/linuxnet.pdf)
-
-### Compiler Design
-- [Compiler Design](https://www.geeksforgeeks.org/compiler-design-tutorials/)
 
 ### Programming
 - [Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
