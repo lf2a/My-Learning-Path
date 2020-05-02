@@ -5,7 +5,6 @@
   - [Application programming interface (API)](#application-programming-interface-api)
   - [Web Security](#web-security)
 - [Frontend](#frontend)
-- [Computer Organization And Architecture](#computer-organization-and-architecture)
 - [Operating System](#operating-system)
   - [Linux](#linux)
 - [Compiler Design](#compiler-design)
@@ -23,7 +22,7 @@
 
 > :recycle: Other Documentation
 
-> :clock1130: Learn Later
+> :clock1130: Still Reading
 
 > :page_with_curl: Overview Internet > ```overview_internet.md```
 
@@ -77,33 +76,26 @@
 - :clock1130: [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
 
 ### Frontend
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/default.asp)
-- [JavaScript](https://javascript.info/)
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-  - [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
-
-### Computer Organization And Architecture
-- [Computer Organization and Architecture](https://www.javatpoint.com/computer-organization-and-architecture-tutorial)
+- :clock1130: [HTML](https://www.w3schools.com/html/)
+- :clock1130: [CSS](https://www.w3schools.com/css/default.asp)
+- :clock1130: [JavaScript](https://javascript.info/)
+  - :clock1130: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Operating System
-- [Tutorial for Beginners](https://www.studytonight.com/operating-system/)
 - [Operating Systems](https://www.geeksforgeeks.org/operating-systems/)
-- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### Linux
-- [Linux Fundamentals](http://linux-training.be/linuxfun.pdf)
-- [Linux Journey](https://linuxjourney.com/)
-- [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
-- [The 50 Most Useful Linux Commands To Run in the Terminal](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
-- [Learn Shell](https://www.learnshell.org/)
-- [Shell Scripting Tutorial](https://www.shellscript.sh/)
-- [Linux System Administration](http://linux-training.be/linuxsys.pdf)
-- [Linux System Administration MIT](https://www.haystack.mit.edu/workshop/TOW2017/files/Seminars/horsley-linux-notes-2017.pdf)
-- [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
-- [Linux Security](http://linux-training.be/linuxsec.pdf)
-- [Linux Storage](http://linux-training.be/linuxsto.pdf)
-- [Linux Networking](http://linux-training.be/linuxnet.pdf)
+- :page_with_curl: [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
+- :page_with_curl: [The 50 Most Useful Linux Commands To Run in the Terminal](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
+- :page_with_curl: [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+- :clock1130: [Shell Scripting Tutorial](https://www.shellscript.sh/)
+- :clock1130: [Linux Journey](https://linuxjourney.com/)
+- :clock1130: [Linux Fundamentals](http://linux-training.be/linuxfun.pdf)
+- :clock1130: [Linux System Administration](http://linux-training.be/linuxsys.pdf)
+- :clock1130: [Linux System Administration MIT](https://www.haystack.mit.edu/workshop/TOW2017/files/Seminars/horsley-linux-notes-2017.pdf)
+- :clock1130: [Linux Security](http://linux-training.be/linuxsec.pdf)
+- :clock1130: [Linux Storage](http://linux-training.be/linuxsto.pdf)
+- :clock1130: [Linux Networking](http://linux-training.be/linuxnet.pdf)
 
 ### Compiler Design
 - [Compiler Design](https://www.geeksforgeeks.org/compiler-design-tutorials/)
@@ -127,6 +119,7 @@
 - [Don't repeat yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [CQRS]()
 - [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 - [Dependency Injection](https://joebubna.github.io/Cora/documentation/v2/dependency-injection/overview/)
 - [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
@@ -145,6 +138,10 @@
 - [Behavior-Driven Development (BDD) Testing a REST API With Behave](https://www.guru99.com/bdd-testing-rest-api-behave.html)
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
 - [Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
+- [Best Practices When Versioning a Release](https://rollout.io/blog/best-practices-when-versioning-a-release/)
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- [Software versioning](https://en.wikipedia.org/wiki/Software_versioning)
+- [Major.Minor.Patch](https://medium.com/fiverr-engineering/major-minor-patch-a5298e2e1798)
 
 #### Programming Paradigms
 - [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
@@ -230,6 +227,7 @@
 - [Django REST](https://www.djangoproject.com/)
 - [React](https://reactjs.org/)
 - [Jenkins - Tutorials](https://www.jenkins.io/doc/tutorials/)
+- [Ansible](https://www.ansible.com/)
 
 ### DataBase
 - [Database Management System (DBMS)](https://www.geeksforgeeks.org/dbms/)
