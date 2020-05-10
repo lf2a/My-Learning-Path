@@ -137,12 +137,12 @@
 - :recycle: [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
 
 #### UML
-- [The Unified Modeling Language](https://www.uml-diagrams.org/)
-- [UML Class and Object Diagrams](https://www.Mavenuml-diagrams.org/class-diagrams-overview.html)
-- [UML Use Case Diagrams](https://www.uml-diagrams.org/use-case-diagrams.html)
-- [Activity Diagrams](https://www.uml-diagrams.org/activity-diagrams.html)
-- [UML Sequence Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
-- [State Machine Diagrams](https://www.uml-diagrams.org/state-machine-diagrams.html)
+- :clock1130: [The Unified Modeling Language](https://www.uml-diagrams.org/)
+- :clock1130: [UML Class and Object Diagrams](https://www.Mavenuml-diagrams.org/class-diagrams-overview.html)
+- :clock1130: [UML Use Case Diagrams](https://www.uml-diagrams.org/use-case-diagrams.html)
+- :clock1130: [Activity Diagrams](https://www.uml-diagrams.org/activity-diagrams.html)
+- :clock1130: [UML Sequence Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
+- :clock1130: [State Machine Diagrams](https://www.uml-diagrams.org/state-machine-diagrams.html)
 
 #### Python
 - [The Python Tutorial](https://docs.python.org/3/)
@@ -206,16 +206,14 @@
 - [Apache Maven](https://en.wikipedia.org/wiki/Apache_Maven)
 
 ### Version Control
-- [Learn Git](https://try.github.io/)
-- [Git book](https://git-scm.com/book/en/v2)
-- [Git Style Guide](https://github.com/agis/git-style-guide)
+- :clock1130: [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- :recycle: [A Git Style Guide ](https://github.com/agis/git-style-guide)
 
-### Frameworks / Tools
-- [Django](https://www.djangoproject.com/)
-- [Django REST](https://www.djangoproject.com/)
-- [React](https://reactjs.org/)
-- [Jenkins - Tutorials](https://www.jenkins.io/doc/tutorials/)
-- [Ansible](https://www.ansible.com/)
+### Frameworks
+- :clock1130: [Django](https://www.djangoproject.com/)
+- :clock1130: [Django REST](https://www.djangoproject.com/)
+- :clock1130: [React](https://reactjs.org/)
+- :clock1130: [Spring](https://spring.io/)
 
 ### DataBase
 - [Database Management System (DBMS)](https://www.geeksforgeeks.org/dbms/)
@@ -239,7 +237,7 @@
 - [An Overview on Elasticsearch and its usage](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
 ### Message Brokers
-- [An introduction to Message Brokers](https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd)
+- :recycle: [An introduction to Message Brokers](https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd)
 
 ### Container
 - [LearnDocker.online](https://learndocker.online/courses)
